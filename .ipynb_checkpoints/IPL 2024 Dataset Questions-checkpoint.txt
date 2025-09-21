@@ -1,0 +1,45 @@
+Basic Level
+
+Show the first 10 rows of the dataset.
+
+Find the total number of matches played in IPL 2024.
+
+Count how many matches each team played as team1 and team2.
+
+Find the matches where runs scored were more than 200.
+
+Replace missing values in player_of_the_match with "Unknown".
+
+🔹 Intermediate Level
+
+Find the top 5 players who won the most player_of_the_match awards.
+
+Calculate the average first innings score.
+
+Find the match with the highest win margin (by runs).
+
+Find the match with the highest win margin by wickets.
+
+Create a new column called result like we did → "20 Runs" / "7 Wickets".
+
+Group matches by venue and find the number of matches played at each ground.
+
+Find how many matches were decided in the last over (e.g., win by ≤ 6 runs or win by ≤ 1 wicket).
+
+🔹 Advanced Level
+
+Find which team won the most matches while chasing.
+
+Find which team defended a score successfully the most times.
+
+Calculate the average powerplay score (first 6 overs) if you have ball-by-ball data.
+
+Create a pivot table showing teams vs number of wins by runs and wickets.
+
+Plot a bar chart of top 10 run-scorers of the season (from most_runs column).
+
+Plot a line graph of average first innings score across the season (by match number).
+
+Which bowler took the most wickets in a single match?
+
+Find the team with the highest win percentage.

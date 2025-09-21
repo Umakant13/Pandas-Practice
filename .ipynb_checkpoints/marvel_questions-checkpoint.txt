@@ -1,0 +1,42 @@
+Practice Questions (with difficulty levels)
+🔹 Beginner
+
+Load the dataset into Pandas and display the first 5 rows.
+
+Find the total number of characters in the dataset.
+
+Show the unique values in the Team column.
+
+Count how many male and female characters are there.
+
+Find the earliest and latest first appearance year.
+
+🔹 Intermediate
+
+Find the average Strength of all characters.
+
+Group characters by Alignment and find the count of characters in each group.
+
+Find the strongest character (highest Strength).
+
+Find the top 3 characters with the most movie appearances.
+
+Replace all "Bad" in Alignment with "Villain".
+
+🔹 Advanced
+
+Which team has the highest average Strength?
+
+Find the character(s) who appeared in more than 7 movies.
+
+Create a new column Decade from First_Appearance (e.g., 1960s, 1970s).
+
+Group by Decade and find how many new characters were introduced per decade.
+
+Create a new column called Power_Level:
+
+"Low" if Strength < 75
+
+"Medium" if 75 ≤ Strength < 90
+
+"High" if Strength ≥ 90
